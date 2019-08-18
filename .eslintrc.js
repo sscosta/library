@@ -2,6 +2,6 @@ module.exports = {
     "extends": "airbnb-base",
     "rules":{
         "comma-dangle": 0,
-        "linebreak-style": ["error", "unix"]
+        "linebreak-style": ["error", "windows"]
     }
 };
